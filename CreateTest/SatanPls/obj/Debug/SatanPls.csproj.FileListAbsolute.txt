@@ -1,0 +1,11 @@
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\bin\Debug\SatanPls.exe.config
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\bin\Debug\SatanPls.exe
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\bin\Debug\SatanPls.pdb
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.csprojAssemblyReference.cache
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.Form1.resources
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.Properties.Resources.resources
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.csproj.GenerateResource.cache
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.csproj.CoreCompileInputs.cache
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.exe
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.pdb
+C:\Users\sn41l\source\repos\SatanPls\SatanPls\obj\Debug\SatanPls.csproj.ResolveComReference.cache

@@ -1,0 +1,4 @@
+﻿  JacobiAndSimpsons.cpp
+C:\Users\sn41l\source\repos\JacobiAndSimpsons\JacobiAndSimpsons\JacobiAndSimpsons.cpp(42,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sn41l\source\repos\JacobiAndSimpsons\JacobiAndSimpsons\JacobiAndSimpsons.cpp(42,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  JacobiAndSimpsons.vcxproj -> C:\Users\sn41l\source\repos\JacobiAndSimpsons\x64\Debug\JacobiAndSimpsons.exe

@@ -1,0 +1,5 @@
+﻿  JacobiAndSimpsons.cpp
+C:\Users\sn41l\source\repos\JacobiAndSimpsons\JacobiAndSimpsons\JacobiAndSimpsons.cpp(29,19): warning C4101: c: неиспользованная локальная переменная
+C:\Users\sn41l\source\repos\JacobiAndSimpsons\JacobiAndSimpsons\JacobiAndSimpsons.cpp(92,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\sn41l\source\repos\JacobiAndSimpsons\JacobiAndSimpsons\JacobiAndSimpsons.cpp(137,4): warning C4102: end: неиспользованная метка
+  JacobiAndSimpsons.vcxproj -> C:\Users\sn41l\source\repos\JacobiAndSimpsons\Debug\JacobiAndSimpsons.exe
